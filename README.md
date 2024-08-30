@@ -8,9 +8,11 @@
 </div>
 
 ## About Me
-🔭 I’m currently working on FOSS to make software development as accessible as possible  
-🌱 I’m learning Kivy to build mobile applications. 
-⚡ From Scratching to Biting.
+🔭 I’m currently working on FOSS to make software development as accessible as possible
+
+🌱 I’m learning Kivy to build mobile applications
+
+⚡ From Scratching to Biting
 
 ## Pinned Repositories
 ### [Image-to-Minecraft](https://github.com/Breakdown55/Image-to-Minecraft)

@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# About me
 
 ## About Me
 - 🔭 I’m currently working on [project].
